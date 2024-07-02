@@ -1,4 +1,4 @@
-# AirBnB_dashboard_Tableauu
+# AirBnB_dashboard_Tableau
 Tableau public WorkBook Link:
 https://public.tableau.com/app/profile/anwaydeep.nath/viz/AirBnB_Dashboard_17199530538600/Dashboard1?publish=yes#WelcomeQuestionnaire
 
